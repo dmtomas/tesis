@@ -101,8 +101,8 @@ for i in range(0, 5621):
     thetas = []
     bot.rewards = []
     bot.temporary = []
-    bot.states[0] = -np.random.uniform(0, 1)
-    bot.states[1] = -bot.states[0]
+    #bot.states[0] = -np.random.uniform(0, 1)
+    #bot.states[1] = -bot.states[0]
     env.states = [bot.states[0], bot.states[1]]
     while not done:
         action, theta = bot.Policy(observation)
