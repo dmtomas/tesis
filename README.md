@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![SEDICI](https://img.shields.io/badge/SEDICI-UNLP-blue.svg)]([https://arxiv.org](https://sedici.unlp.edu.ar/handle/10915/161309?show=full))
+[![SEDICI](https://img.shields.io/badge/SEDICI-UNLP-blue.svg)](https://sedici.unlp.edu.ar/handle/10915/161309?show=full)
 
 > Physics Bachelor's Thesis - Universidad Nacional de La Plata (2023)  
 > **Author:** Tomás Crosta  
