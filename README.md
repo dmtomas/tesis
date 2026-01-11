@@ -122,16 +122,6 @@ In quantum communications, a sender **A** transmits states `|α⟩` or `|-α⟩`
 
 *\*One-time training, then instantaneous inference*
 
-### Performance in Noisy Channel
-
-**Gaussian Attenuation (θ = π/8)**
-
-### Plots
-
-![Convergence](docs/images/convergencia_sr_magoo.png)
-![Agent Comparison](docs/images/comparacion_agentes.png)
-![Noisy Channel](docs/images/canal_atenuacion.png)
-
 ### Related Papers
 
 - M. Bilkis et al., "Real-time calibration of coherent-state receivers", [Phys. Rev. Research 2, 033295 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033295)
