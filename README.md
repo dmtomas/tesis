@@ -167,11 +167,3 @@ If you use this code in your research, please cite:
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
 
-## 🔗 Links
-
-- [Repository](https://github.com/dmtomas/tesis)
-- [Documentation](https://dmtomas.github.io/tesis)
-- [Issues](https://github.com/dmtomas/tesis/issues)
-- [Full Thesis (PDF)](docs/tesis_completa.pdf)
-
----
