@@ -156,13 +156,6 @@ If you use this code in your research, please cite:
 - **Dr. Matías Bilkis** - *Advisor*
 - **Prof. Dr. Juan Mauricio Matera** - *Academic Advisor*
 
-## 🙏 Acknowledgments
-
-- Physics Department, Universidad Nacional de La Plata
-- Quantum Information Group
-- La Vagancia (study group)
-- Everyone mentioned in the thesis acknowledgments
-
 ## 📝 License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
